@@ -1,67 +1,83 @@
 # voice.md
 
-Copy this to `~/.claude/instagram/voice.md` and fill it in. Every skill in the
-pack reads it. Ten minutes here is the difference between scripts you shoot and
-scripts you rewrite.
-
-If you would rather not fill it in by hand, send Claude three of your own reels
-or captions and say "write my voice.md from these". That works better than
-guessing at the answers.
-
-This file matters more on Instagram than anywhere else, because you have to say
-the words out loud. A line you would never say is not a draft, it is a retake.
+Every skill in the pack reads this file. It is the difference between scripts
+you shoot and scripts you rewrite.
 
 ---
 
 ## Who I am
 
-- **Name:**
-- **Handle:**
-- **What I do, in one sentence:**
-- **Who I am talking to:** (be specific: "photographers charging under $2,000",
-  not "creatives")
-- **What I sell:**
+- **Name:** Oumayma Elmezouari
+- **Handle:** @oumayma_elmezouari
+- **What I do, in one sentence:** Founder of Soulchain — a platform that helps people think better and decide better through daily micro-learning, peer exchange, and structured reflection.
+- **Who I am talking to:** Professionals, entrepreneurs, and curious minds who want sharper thinking without more meetings or noise.
+- **What I sell:** Soulchain — Check. Chat. Choose.
+
+## The brand: Soulchain
+
+### Core framework: Check. Chat. Choose.
+
+The three pillars, always in English (the alliteration is the brand signature).
+Explanations are in French.
+
+1. **CHECK** — Élargissez votre angle de vue. Daily nano-doses of knowledge. One subject seen through multiple disciplines. See what others don't see yet.
+2. **CHAT** — Confrontez votre idée à un humain. Not a meeting: a one-on-one exchange. A peer who explored the same subject. Their perspective sharpens your critical thinking.
+3. **CHOOSE** — Décidez, et faites grandir votre pensée. Decide with more perspective. Evolve your way of thinking. Create value around you.
+
+### Brand tagline
+
+Penser mieux, un jour à la fois.
+
+### Key messaging rules
+
+- Never frame it as meetings or teamwork — it's one person + one peer, never a room
+- "Faire évoluer votre façon de penser" not "remodeler votre cerveau" (no neuroscience claims we can't back)
+- Don't promise durations ("quelques minutes") — boosters are still being refined
+- Say "un pair" not "le bon pair" — the matching mechanism is still the weakest point in beta
+- Triad stays in English (Check, Chat, Choose). Full French alternative ("Explorer, Échanger, Décider") loses the alliteration
+- No CTA on signature slides — just the triad + tagline + logo
+
+### Visual direction
+
+- Check: one person reading on their phone
+- Chat: two people one-on-one (not a conference or panel)
+- Choose: one person deciding, alone and calm
+- Numbered pills (1 · CHECK, 2 · CHAT, 3 · CHOOSE) for sequence visibility
+- One wordmark, one gold, one headline font — consistency
+- 1080x1350 format for carousels
 
 ## What I sound like
 
-- **Three of my own reels or captions that sound most like me:** (paste them)
-- **On camera I am:** (fast and loud / dry / calm / funny / deadpan)
+- **Language:** French (with English brand terms kept in English)
+- **On camera I am:** Calm, clear, thoughtful
 - **Words I actually use:**
 - **Words I would never say out loud:**
-- **Do I swear:** (yes / mild / no)
-- **Emoji in captions:** (never / one, rarely / freely)
-- **Face on camera:** (always / sometimes / faceless)
+- **Do I swear:** no
+- **Emoji in captions:** one, rarely
+- **Face on camera:** sometimes
 - **Voiceover or to-camera:**
-- **Pace:** (words per minute, if you have timed yourself reading a script.
-  `beats.py --wpm` uses this. Most people are between 150 and 200.)
+- **Pace:**
 
 ## My positions
 
-Three to five things I believe that some of my audience does not. These are
-where the good reels come from.
-
-1.
-2.
-3.
+1. You don't need more opinions — you need better angles.
+2. Better decisions don't require another meeting.
+3. Three small daily gestures beat one big weekly effort.
 
 ## Off limits
 
 - **Topics I do not post about:**
 - **Clients, numbers or names I cannot say publicly:**
-- **Claims I am not allowed to make:** (regulated industry, employer policy, NDA)
+- **Claims I am not allowed to make:** No neuroscience claims, no promises on matching quality, no specific time commitments on boosters
 
 ## Proof I can use
 
-Real numbers, outcomes and stories I am happy to put my name on. The skills will
-never invent one, so if this section is empty, every draft comes back with
-`{{your number}}` in it.
-
--
+- Beta feedback on Check/Chat/Choose framework
 -
 -
 
 ## The ask
 
-- **My keyword CTA, if I use one:** (one word, sayable, no spaces)
+- **My keyword CTA, if I use one:**
 - **What the keyword sends them:**
 - **Where my link goes:**
